@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ERC-20, ERC-721, ERC-115, crypto tokenomics, copyrights in NFTs
 - 💞️ I’m looking to collaborate on decentralized applications
 - 📫 How to reach me alina@project10x.io
+- Check out my portfolio on Dune at https://dune.com/adreamer
 
 <!---
 AlinaZB/AlinaZB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
