@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlinaZB
 - 👀 I’m interested in smart contracts, ethereum scaling solutions, Defi applications
-- 🌱 I’m currently learning ERC-20, ERC-721, ERC-115, crypto tokenomics, copyrights in NFTs
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on decentralized applications
 - 📫 How to reach me alina@project10x.io
 - Check out my portfolio on Dune at https://dune.com/adreamer
