@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlinaZB
-- 👀 I’m interested in smart contracts, ethereum scaling solutions, Defi applications
+- 👀 I’m interested in on-chain data analysis and dApps
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on decentralized applications
+- 💞️ I’m looking to collaborate on dApps
 - 📫 How to reach me alina@project10x.io
 - Check out my portfolio on Dune at https://dune.com/adreamer
 
